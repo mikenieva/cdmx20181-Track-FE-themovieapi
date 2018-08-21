@@ -50,10 +50,9 @@ Un arreglo de objetos. Cada objeto incluye los valores de la película respectiv
 - Elegirás 3 series/colección de películas y crearás una aplicación que muestre sus datos en una página principal. Utiliza tu función getMovies para
 requerir los datos.
 - Desarrollarás una vista principal donde se muestre:
-
-▸ Navegación. Incluye el nombre del blog.
-▸ Categorías. Incluye las colecciones de películas.
-▸ Poster y título. Incluye el poster individual de la película y su título respectivo.
+  - Navegación. Incluye el nombre del blog.
+  - Categorías. Incluye las colecciones de películas.
+  - Poster y título. Incluye el poster individual de la película y su título respectivo.
 
 ![Alcance Dos](docs/src/alcance2.png)
 
