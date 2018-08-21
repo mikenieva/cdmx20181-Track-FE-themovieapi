@@ -38,8 +38,9 @@ OMDB. Recuerda incluir tu API Key también en la función para que puedas accede
 
 ### Argumentos:
 
-api. String que incluye tu llave principal de acceso al API
-búsqueda. String que incluye las palabras a buscar en base de datos.
+*api.* String que incluye tu llave principal de acceso al API
+búsqueda. 
+*search.* String que incluye las palabras a buscar en base de datos. 
 
 ### Retorno:
 Un arreglo de objetos. Cada objeto incluye los valores de la película respectiva.
