@@ -22,7 +22,7 @@ Trazas un plan técnico y propones desarrollar un catálogo que incluya películ
 
 ## Alcance 1
 
-- Obtener un API Key en [OMDB API](http://http://www.omdbapi.com/)
+- Obtener un API Key en [OMDB API](http://www.omdbapi.com/)
 . Tendrás que entrar a la sección “API Key”, registrarte en
 “Free” y obtener tu llave para poder consumirla.
 
