@@ -1,0 +1,30 @@
+{
+  "name": "cdmx20181-track-fe-themovieapi",
+  "version": "1.0.0",
+  "description": "Caso de estudio: API movies",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MiriamGaGu/cdmx20181-Track-FE-themovieapi.git"
+  },
+  "keywords": [
+    "API",
+    "Fetch",
+    "Objects"
+  ],
+  "author": "MGG",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MiriamGaGu/cdmx20181-Track-FE-themovieapi/issues"
+  },
+  "homepage": "https://github.com/MiriamGaGu/cdmx20181-Track-FE-themovieapi#readme",
+  "dependencies": {
+    "eslint": "^5.4.0"
+  }
+}
